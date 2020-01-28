@@ -4,7 +4,7 @@ import { bindActionCreators } from 'redux';
 import {
   MdRemoveCircleOutline,
   MdAddCircleOutline,
-  MdDelete,
+  MdDelete;
 } from 'react-icons/md';
 
 import { formatPrice } from '../../util/format';
